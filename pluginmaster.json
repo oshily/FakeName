@@ -1,35 +1,5 @@
 [
     {
-        "Author": "Tischel, ArchiTed",
-        "Name": "ActionTimelineEx",
-        "InternalName": "ActionTimelineEx",
-        "Description": "Configurable timeline display of all the actions you use.",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/ArchiDog1998/ActionTimelineEx",
-        "Tags": [
-            "UI"
-        ],
-        "CategoryTags": [
-            "UI"
-        ],
-        "DalamudApiLevel": 10,
-        "LoadRequiredState": 0,
-        "LoadSync": false,
-        "CanUnloadAsync": false,
-        "LoadPriority": 0,
-        "ImageUrls": [
-            "https://raw.githubusercontent.com/ArchiDog1998/ActionTimelineEx/main/Images/example.gif"
-        ],
-        "IconUrl": "https://xivapi.com/i/000000/000073_hr1.png",
-        "Punchline": "Show your actions in real-time.",
-        "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/ArchiDog1998/ActionTimelineEx/releases/download/v1.4.15/latest.zip",
-        "AssemblyVersion": "1.4.15",
-        "DownloadLinkUpdate": "https://github.com/ArchiDog1998/ActionTimelineEx/releases/download/v1.4.15/latest.zip",
-        "DownloadCount": 1354,
-        "Changelog": "## [1.4.15](https://github.com/ArchiDog1998/ActionTimelineEx/compare/v1.4.14...v1.4.15) (2024-07-30)\n\n\n### Bug Fixes\n\n* feedback fix. ([551925e](https://github.com/ArchiDog1998/ActionTimelineEx/commit/551925efc1a25ef53080657301aa8c5338d41d71))"
-    },
-    {
         "Author": "ArchiTed",
         "Name": "Fake Name",
         "InternalName": "FakeName",
@@ -56,61 +26,5 @@
         "DownloadLinkUpdate": "https://github.com/ArchiDog1998/FakeName/releases/download/v1.2.2/latest.zip",
         "DownloadCount": 1974,
         "Changelog": "## [1.2.2](https://github.com/ArchiDog1998/FakeName/compare/v1.2.1...v1.2.2) (2024-07-25)\n\n\n### Bug Fixes\n\n* better nameplate. but not perfect. ([2dd43cd](https://github.com/ArchiDog1998/FakeName/commit/2dd43cd1a03936c2e4a0697bba08dfc5d07a1fa7))\n* hook fixed. ([54c3ea9](https://github.com/ArchiDog1998/FakeName/commit/54c3ea95a028d7a458a89eb72157baf2afd225e1))"
-    },
-    {
-        "Author": "ArchiTed",
-        "Name": "Rotation Solver",
-        "InternalName": "RotationSolver",
-        "Description": "Analyses combat information in every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\n\nThen, it will highlight the best action on the hot bar, or help you to click on it.\n\nIt is designed for GENERAL COMBAT, not for savage or ultimate. Use it carefully.",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/ArchiDog1998/RotationSolver",
-        "Tags": [
-            "combat",
-            "rotation"
-        ],
-        "CategoryTags": [
-            "jobs"
-        ],
-        "DalamudApiLevel": 10,
-        "LoadRequiredState": 0,
-        "LoadSync": false,
-        "CanUnloadAsync": false,
-        "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/ArchiDog1998/RotationSolver/main/Images/Logo.png",
-        "Punchline": "Analyses combat information in every frame and finds the best action.",
-        "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v5.1.13/latest.zip",
-        "AssemblyVersion": "5.1.13",
-        "DownloadLinkUpdate": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v5.1.13/latest.zip",
-        "DownloadCount": 9894,
-        "Changelog": "## [5.1.13](https://github.com/ArchiDog1998/RotationSolver/compare/v5.1.12...v5.1.13) (2024-08-11)\n\n\n### Bug Fixes\n\n* state update and defense fix. ([1d1ac56](https://github.com/ArchiDog1998/RotationSolver/commit/1d1ac56a31ff717d4df49754d80495e177b3e432))"
-    },
-    {
-        "Author": "ArchiTed",
-        "Name": "Quest Solver",
-        "InternalName": "QuestSolver",
-        "Description": "Help you to solve the quests. It is still working in progress! I am lazy, you know!\nvnavmesh required!",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/ArchiDog1998/QuestSolver",
-        "Tags": [
-            "Auto"
-        ],
-        "CategoryTags": [
-            "Auto"
-        ],
-        "DalamudApiLevel": 10,
-        "LoadRequiredState": 0,
-        "LoadSync": false,
-        "CanUnloadAsync": false,
-        "LoadPriority": 0,
-        "ImageUrls": [],
-        "IconUrl": "https://xivapi.com/i/000000/000087_hr1.png",
-        "Punchline": "Help you to solve the quests!",
-        "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/ArchiDog1998/QuestSolver/releases/download/v1.0.3/latest.zip",
-        "AssemblyVersion": "1.0.3",
-        "DownloadLinkUpdate": "https://github.com/ArchiDog1998/QuestSolver/releases/download/v1.0.3/latest.zip",
-        "DownloadCount": 828,
-        "Changelog": "## [1.0.3](https://github.com/ArchiDog1998/QuestSolver/compare/v1.0.2...v1.0.3) (2024-07-31)\n\n\n### Bug Fixes\n\n* leve solver fix. ([727d88b](https://github.com/ArchiDog1998/QuestSolver/commit/727d88be95c495957734b4f6a354161b6a92e88d))"
     }
 ]
