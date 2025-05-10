@@ -21,10 +21,10 @@
         "IconUrl": "https://raw.githubusercontent.com/ArchiDog1998/FakeName/main/icon.png",
         "Punchline": "Show a fake name on your game ui.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/ArchiDog1998/FakeName/releases/download/v1.2.2/latest.zip",
+        "DownloadLinkInstall": "https://github.com/oshily/FakeName/releases/download/Release/FakeName-main.zip",
         "AssemblyVersion": "1.2.2",
-        "DownloadLinkUpdate": "https://github.com/ArchiDog1998/FakeName/releases/download/v1.2.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/oshily/FakeName/releases/download/Release/FakeName-main.zip",
         "DownloadCount": 1974,
-        "Changelog": "## [1.2.2](https://github.com/ArchiDog1998/FakeName/compare/v1.2.1...v1.2.2) (2024-07-25)\n\n\n### Bug Fixes\n\n* better nameplate. but not perfect. ([2dd43cd](https://github.com/ArchiDog1998/FakeName/commit/2dd43cd1a03936c2e4a0697bba08dfc5d07a1fa7))\n* hook fixed. ([54c3ea9](https://github.com/ArchiDog1998/FakeName/commit/54c3ea95a028d7a458a89eb72157baf2afd225e1))"
+        "Changelog": ""
     }
 ]
